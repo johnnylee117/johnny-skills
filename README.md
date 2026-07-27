@@ -12,7 +12,7 @@
 
 | Skill | 一句话说明 | 适用场景 |
 | --- | --- | --- |
-| 🚌 [canoe-capl-fuzz-monitor](canoe-capl-fuzz-monitor/) | 为授权 CAN/CAN-FD 鲁棒性测试构建证据优先的被动 CANoe CAPL 监测器。 | `.cfg`、DBC、多通道观测、超时、计数器、状态与角度异常、BLF 证据关联。 |
+| 🚌 [canoe-capl-fuzz-monitor](https://github.com/johnnylee117/johnny-skills/tree/main/canoe-capl-fuzz-monitor) | 为授权 CAN/CAN-FD 鲁棒性测试构建证据优先的被动 CANoe CAPL 监测器。 | `.cfg`、DBC、多通道观测、超时、计数器、状态与角度异常、BLF 证据关联。 |
 
 ---
 
@@ -69,4 +69,3 @@ Use $canoe-capl-fuzz-monitor to create or repair a CANoe CAPL monitor from this 
 ## 📄 License
 
 [MIT](LICENSE)
-
