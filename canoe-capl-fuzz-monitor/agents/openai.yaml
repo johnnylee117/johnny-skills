@@ -1,0 +1,4 @@
+interface:
+  display_name: "CANoe CAPL Fuzz Monitor"
+  short_description: "Build validated CANoe fuzz-monitoring CAPL scripts"
+  default_prompt: "Use $canoe-capl-fuzz-monitor to create or repair a CANoe CAPL monitor from this cfg and DBC set."
