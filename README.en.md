@@ -12,7 +12,7 @@ This repository collects standalone skills that Codex, Claude Code, and other Ag
 
 | Skill | Summary | Use it for |
 | --- | --- | --- |
-| 🚌 [canoe-capl-fuzz-monitor](canoe-capl-fuzz-monitor) | Build evidence-first passive CANoe CAPL monitors for authorized CAN/CAN-FD robustness tests. | Active `.cfg` files, attached DBCs, cross-channel observation, timeouts, counters, state/angle checks, and BLF evidence. |
+| 🚌 [canoe-capl-fuzz-monitor](https://github.com/johnnylee117/johnny-skills/tree/main/canoe-capl-fuzz-monitor) | Build evidence-first passive CANoe CAPL monitors for authorized CAN/CAN-FD robustness tests. | Active `.cfg` files, attached DBCs, cross-channel observation, timeouts, counters, state/angle checks, and BLF evidence. |
 
 ---
 
